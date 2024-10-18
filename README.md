@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alrovella
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Next and Astro
+- 🌱 I’m currently working with Next and learning Astro
 
 <!---
 alrovella/alrovella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
