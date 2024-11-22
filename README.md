@@ -24,7 +24,7 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 
 ### Herramientas y Metodologías  
 - **Agilidad**: Scrum  
-- **Colaboración**: Figma, Git, CI/CD  
+- **Colaboración**: Figma, Git
 
 ---
 
