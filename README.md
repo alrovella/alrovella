@@ -10,21 +10,25 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 
 ---
 
-## 💡 Habilidades clave  
+## 💡 Mi Stack actual para distintos proyectos es:
 
-### Front-End  
-- **Librerías y frameworks**: React, Next.js, Angular  
-- **Estilos**: Tailwind CSS, Bootstrap, Storybook  
-- **Prácticas modernas**: SEO, Mobile-first, accesibilidad (a11y).  
-
-### Back-End  
-- **Lenguajes y frameworks**: .NET Core, Nest.js, Node.js  
-- **Bases de datos**: SQL Server, PostgreSQL, Prisma ORM  
-- **APIs**: REST, GraphQL  
-
-### Herramientas y Metodologías  
-- **Agilidad**: Scrum  
-- **Colaboración**: Figma, Git
+- Next 14 (probando v15)
+- React 18 (probando v19)
+- Server actions/functions para mutaciones/queries
+- Clerk para autenticacion
+- EdgeStore para upload de imagenes/archivos
+- React Hook Form para el diseño de formularios
+- Validaciones con Zod
+- Tanstack Query para manejar estado de collections
+- Resend para envío de correos
+- Zustand para global state
+- Prisma de ORM
+- Postgresql para base de datos
+- Tailwindcss para styling
+- Shadcn para design system
+- Jest para unit testing
+- Playright para e2e testing
+- Vercel AI SDK para integrar LLMs dentro de las apps
 
 ---
 
