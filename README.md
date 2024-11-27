@@ -5,7 +5,7 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 - 🌎 **Ubicación**: Río Ceballos, Córdoba, Argentina (originalmente de Buenos Aires).  
 - 💻 **Stack principal**: React, Next.js, Tailwind CSS, Prisma, PostgreSQL.  
 - 🧑‍🎨 Experto en la integración entre diseño y desarrollo utilizando herramientas como Storybook y Figma.  
-- 🌱 Actualmente aprendiendo: **React Native** y desarrollando proyectos open-source.  
+- 🌱 Actualmente aprendiendo: **React Native** y desarrollando algunos proyectos open-source.  
 - 🎯 **Objetivo profesional**: Aportar soluciones innovadoras en proyectos desafiantes que impulsen mi crecimiento profesional.  
 
 ---
