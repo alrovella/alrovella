@@ -8,7 +8,7 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 - 🌱 Actualmente aprendiendo: **React Native** y desarrollando algunos proyectos open-source.  
 - 🎯 **Objetivo profesional**: Aportar soluciones innovadoras en proyectos desafiantes que impulsen mi crecimiento profesional.  
 
----
+
 
 ## 💡 Mi Stack actual para distintos proyectos es:
 
@@ -30,7 +30,7 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 - Playright para e2e testing
 - Vercel AI SDK para integrar LLMs dentro de las apps
 
----
+
 
 ## 🏆 Experiencia profesional  
 
@@ -51,7 +51,7 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 - Especialización en desarrollo moderno con **Next.js**, **React** y **Prisma**.  
 - Proyectos variados adaptados a las necesidades de clientes, combinando tecnologías back y front-end.  
 
----
+ 
 
 ## 📂 Proyectos Open Source  
 
@@ -64,7 +64,7 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 ### [PlantMatch](https://github.com/alrovella/plant-match)  
 **Descripción**: Aplicación que utiliza inteligencia artificial para recomendar plantas ideales según las condiciones específicas del hogar.  
 
----
+
 
 ## 🤝 Contacto  
 
