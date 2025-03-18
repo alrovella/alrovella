@@ -12,23 +12,23 @@ Con más de dos décadas de experiencia, soy un desarrollador apasionado por cre
 
 ## 💡 Mi Stack actual para distintos proyectos es:
 
-- Next 14 (probando v15)
 - React 18 (probando v19)
+- Next 14 (probando v15)
+- Astro
 - Server actions/functions para mutaciones/queries
 - Clerk para autenticacion
 - EdgeStore para upload de imagenes/archivos
 - React Hook Form para el diseño de formularios
 - Validaciones con Zod
-- Tanstack Query para manejar estado de collections
-- Resend para envío de correos
+- Tanstack Query para manejar estado de colecciones
 - Zustand para global state
 - Prisma de ORM
 - Postgresql para base de datos
 - Tailwindcss para styling
-- Shadcn para design system
+- Shadcn como design system (aunque utilize en distintos proyectos Material UI, Daisy UI, Bootstrap, etc)
 - Jest para unit testing
 - Playright para e2e testing
-- Vercel AI SDK para integrar LLMs dentro de las apps
+- Vercel AI SDK para integrar LLMs dentro de las apps web si se requiere
 
 
 
